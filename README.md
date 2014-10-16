@@ -8,9 +8,9 @@ Current version: 0.1beta
 
 ## Example usage
 ```
-$ git clone https://github.com/bluegod/gitcistats
+$ git clone https://github.com/bluegod/gitcistats ~/Downloads/gitcistats
 $ cd my_git_repo
-$ ~/Downloads/gitcistats.sh
+$ ~/Downloads/gitcistats/gitcistats.sh
 $ open gitcistats-2014-10-16.html
 ```
 
