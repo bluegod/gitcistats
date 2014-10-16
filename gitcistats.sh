@@ -1,4 +1,9 @@
 #!/bin/bash
+#
+# gitcistats v0.1Beta - Shows the top GIT committers and outputs this into a HTML file
+# Latest version:
+# https://github.com/bluegod/gitcistats
+
 OUTPUT_PREFIX="gitcistats"
 
 timestamp=$( date +%Y-%m-%d )
